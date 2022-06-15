@@ -1,0 +1,3 @@
+Com\Student\Dto\StudentDto.class
+Com\Student\SpringBootHibernateApplication.class
+Com\Student\Controller\StudentController.class
